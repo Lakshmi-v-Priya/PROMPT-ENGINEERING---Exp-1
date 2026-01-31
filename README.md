@@ -1,4 +1,4 @@
-![The-Cost-Implications-of-Large-Language-Model-LLM-Training](https://github.com/user-attachments/assets/c81ee501-3910-4ab2-90b1-9579a2f21dd2)# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 ```
 Lakshmi Priya .V
