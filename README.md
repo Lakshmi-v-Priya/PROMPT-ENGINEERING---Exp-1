@@ -62,7 +62,7 @@ Step 7: Finalize and Export
 7.3 Prepare a brief presentation if required (optional)
 # Output
 # 1. Foundational Concepts of Generative AI
-<img width="252" height="200" alt="image" src="https://github.com/user-attachments/assets/c5a224c6-86c8-4fce-a44f-5a85b1a1a03b" />
+![Layers-of-Generative-AI-Architecture](https://github.com/user-attachments/assets/b70adec7-e440-4bc9-901d-8749066b9ed6)
 
 Generative Artificial Intelligence (Generative AI) is a branch of artificial intelligence that focuses on creating new data or content rather than only analyzing existing data. It uses machine learning models to generate text, images, audio, videos, code, and other digital content that resembles human-created data.
 
