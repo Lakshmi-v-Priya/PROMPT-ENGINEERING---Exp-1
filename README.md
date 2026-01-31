@@ -162,8 +162,7 @@ Educational Applications:
 AI tutors and personalized learning systems use generative AI to provide customized study materials and explanations.
 
 # 4. Generative AI impact of scaling in LLMs.
-
-<img width="255" height="198" alt="image" src="https://github.com/user-attachments/assets/4605d384-e12c-474b-a108-f1a348c08f32" />
+![The-Cost-Implications-of-Large-Language-Model-LLM-Training](https://github.com/user-attachments/assets/662d814e-2a38-4537-9db1-1a115ac3df92)
 
 4.1 Concept of Scaling
 
