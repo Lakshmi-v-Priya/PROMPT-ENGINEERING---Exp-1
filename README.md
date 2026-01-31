@@ -1,4 +1,4 @@
-# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+![The-Cost-Implications-of-Large-Language-Model-LLM-Training](https://github.com/user-attachments/assets/c81ee501-3910-4ab2-90b1-9579a2f21dd2)# Aim:	Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 ```
 Lakshmi Priya .V
@@ -162,7 +162,7 @@ Educational Applications:
 AI tutors and personalized learning systems use generative AI to provide customized study materials and explanations.
 
 # 4. Generative AI impact of scaling in LLMs.
-![The-Cost-Implications-of-Large-Language-Model-LLM-Training](https://github.com/user-attachments/assets/662d814e-2a38-4537-9db1-1a115ac3df92)
+![The-Cost-Implications-of-Large-Language-Model-LLM-Training](https://github.com/user-attachments/assets/c597291c-2e12-46a2-8926-7ab40c7f1252)
 
 4.1 Concept of Scaling
 
