@@ -1,4 +1,4 @@
-# Experiment 1
+# Experiment 1 Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
 
 ```
 Lakshmi Priya .V
@@ -6,7 +6,7 @@ Lakshmi Priya .V
 ```
 
 # Aim:	
-Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs)
+ To make an Comprehensive Report on the Fundamentals of Generative AI and Large Language Models (LLMs).
 
 Experiment:
 Develop a comprehensive report for the following exercises:
